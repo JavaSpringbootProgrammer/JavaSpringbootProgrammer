@@ -6,7 +6,7 @@
 - It is important to say, I know about C++, Python, a little bit of C# and I'll make a MySQL stuff to get new stuff to get it
   ¡¡Thanks for read my personal introduction, and if you need something about these languages, 
  no doubt to touched me I will be excited to help you and to get more knowledge about these languages.!!
-@System.out.println("Thanks"); @cout << ("Thanks") << endl; @println("Thanks");
+@System.out.println("Thanks"); @std::cout << ("Thanks") << endl; @println("Thanks");
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@
 - Importante mencionar que tengo conocimientos aparte de Java como lo son C++, Python, un poco de C# y quiero hacer algo de MySQL para ampliar mi conocimiento
 - Gracias por leer mi información introductoria y si necesitan algo sobre estos lenguajes, no duden en contactarme porque estaré emocionado para ayudarlos y ampliar mi conocimiento
 - sobre estos lenguajes.
-- @System.out.println("Gracias"); @cout <<("Gracias") << endl; @println("Gracias");
+- @System.out.println("Gracias"); @std::cout <<("Gracias") << endl; @println("Gracias");
